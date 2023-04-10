@@ -1,0 +1,59 @@
+body {
+  background-color: blanchedalmond;
+}
+
+/* h1 {
+  background-color: aquamarine;
+  color: brown;
+}
+
+section {
+  background-color: lightblue;
+}
+
+li {
+  color: blue;
+} */
+
+#movie-section {
+  background-color: lightblue;
+}
+
+#brand-section {
+  background-color: lightgreen;
+}
+
+#band-section {
+  background-color: lightsalmon;
+}
+
+/* .azul {
+  color: blue;
+} */
+
+#movie-section li {
+  color: blue
+}
+
+#brand-section li {
+  color: green
+}
+
+#band-section li {
+  color: red
+}
+
+/* h1, h2 {
+  text-decoration: underline;
+  text-transform: uppercase;
+} */
+
+.title {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+/* h1, section h2 {
+  text-decoration: underline;
+  text-transform: uppercase;
+} */
